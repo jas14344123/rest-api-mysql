@@ -1,0 +1,54 @@
+{"b20c0655-a2d1-4ccd-ab21-aecbd972e7b2":{
+    "id":"b20c0655-a2d1-4ccd-ab21-aecbd972e7b2",
+    "username":"Jaze Christine",
+    "email":"patocjaze1@gmail.com",
+    "password":"$2a$10$iPC/.d4p94NZ81Q.cJc7Te10wceUY2Z/YIMOLtBFii2z2T7mu.dwS"
+},
+
+"e223fbbe-39d5-4513-bd73-33b969428438":{
+    "id":"e223fbbe-39d5-4513-bd73-33b969428438",
+    "username":"christine",
+    "email":"christinejaze@gmail.com",
+    "password":"$2a$10$A/SwWX37FDTZqTduRr5NI.cyzpFUG6XscSglgxnUMFIMI32TSE7hq"
+    },
+"56083bb1-9e06-4810-82e1-759e95608fd2":{
+    "id":"56083bb1-9e06-4810-82e1-759e95608fd2",
+    "username":"adam",
+    "email":"adam@gmail.com",
+    "password":"$2a$10$10st6P94m1H3BefQFObqQe0qhaQzUlewFJvdgBNHRWWSqevc93vNW"
+    },
+    "6662e9e1-3a32-4902-80b6-1c4578a74046":{
+        "id":"6662e9e1-3a32-4902-80b6-1c4578a74046",
+        "username":"ben",
+        "email":"ben@gmail.com",
+        "password":"$2a$10$ZNdYqoD.GwJ9EVKfU6.GOuHeETLqT4LSM9acf1Jg2/7rOXwYSUqhK"
+        },
+        "259c8aa1-a68a-454a-8202-7558e8d3e9a1":{
+            "id":"259c8aa1-a68a-454a-8202-7558e8d3e9a1",
+            "username":"stephen    ",
+            "email":"stephenignatiusbiz@gmail.com",
+            "password":"$2a$10$mnketsAQagk0jb1KBdnxle8hGhNqYeUoUb6fSg5gpDRpAYSYwABxG"
+            },
+        "cfd6f831-c270-412d-b909-f0536e9b537e":{
+            "id":"cfd6f831-c270-412d-b909-f0536e9b537e",
+            "username":"danny ",
+            "email":"danny@email.com",
+            "password":"$2a$10$L10v7ntIurqtVBGS0FMFYOn8YCKY3va3j7IuHWg7mNZ8gffuJdm3S"
+            },"121b7f57-1d0b-40b7-b804-d3c39ec1a88e":{
+                "id":"121b7f57-1d0b-40b7-b804-d3c39ec1a88e",
+                "username":"ethan ",
+                "email":"test@email.com",
+                "password":"$2a$10$NA/IWrXjWWXJOQGsePnBUejBCPY30OYmskGYXIBaaoyfO14.mnOEy"
+                },
+            "b6db5288-9d50-4e13-a56f-220872d7159d":{
+                "id":"b6db5288-9d50-4e13-a56f-220872d7159d",
+                "username":"ethel ",
+                "email":"ethel@email.com",
+                "password":"$2a$10$Yo7LxKt5PixTdGfZrOK7DeN3CPG6.SPynp.BD9QXzghOgKSpNggHS"
+                },
+            "55a55f16-c59c-4093-a917-6be1a7f01c34":{
+                "id":"55a55f16-c59c-4093-a917-6be1a7f01c34",
+                "username":"beth ",
+                "email":"beth@email.com",
+                "password":"$2a$10$gHmCITZGxbJiQM4fjRh/2uJ0hGjS9fImapE1oeXw1PMZCB0VNkT4O"}
+    }
